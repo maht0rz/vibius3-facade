@@ -1,7 +1,7 @@
 <?php
 
 namespace Vibius\Facade;
-use Vibius\Container\Provider;
+use \Vibius\Container\Provider;
 
 class Facade{
 
